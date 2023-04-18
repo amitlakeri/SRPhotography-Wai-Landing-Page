@@ -119,6 +119,7 @@
  {
     list-style: none;  
     margin-right: 15px;
+    
  }
  
  .container .contactInfo ul.sci li a
@@ -126,9 +127,10 @@
     text-decoration: none;
  }
  
- .container .contactInfo ul.sci li a img
+ .container .contactInfo ul.sci li a i
  {
-    filter: invert(1);
+    color: rgb(224, 241, 241);
+    width: 100%;
  }
  
  .container .contactForm
